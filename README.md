@@ -1,8 +1,8 @@
-# Nerfies
+# SelfRAG Website
 
-This is the repository that contains source code for the [Nerfies website](https://selfrag.github.io).
+This is the repository that contains source code for the [SelfRAG website](https://selfrag.github.io). This website is based on [Nerfies website](https://github.com/nerfies/nerfies.github.io)
 
-If you find Nerfies useful for your work please cite:
+If you find Self-RAG useful for your work please cite:
 ```
 @article{asai2023selfrag,
   author    = {Asai, Akari and We, Zeqiu and Wang, Yizhong and Sil, Avirup and Hajishirzi, Hannaneh},
