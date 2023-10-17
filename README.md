@@ -5,7 +5,7 @@ This is the repository that contains source code for the [SelfRAG website](https
 If you find Self-RAG useful for your work please cite:
 ```
 @article{asai2023selfrag,
-  author    = {Asai, Akari and We, Zeqiu and Wang, Yizhong and Sil, Avirup and Hajishirzi, Hannaneh},
+  author    = {Asai, Akari and Wu, Zeqiu and Wang, Yizhong and Sil, Avirup and Hajishirzi, Hannaneh},
   title     = {{Self-RAG}:  Learning to Retrieve, Generate, and Critique through Self-Reflection},
   year      = {2023},
 }
